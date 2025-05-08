@@ -1,16 +1,15 @@
-## Hi there 👋
+Data Engineer building high-performance data pipelines and real-time analytics.
 
-<!--
-**kacperguzydev/kacperguzydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✉️ kacper.guzy.dev@outlook.com
 
-Here are some ideas to get you started:
+Selected Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TripSafe-Analytics: Spark & Kafka streaming system processing 1M+ events/day with 100% fraud detection accuracy
+
+Valorant Match Tracker: FastAPI API with PostgreSQL & Redis caching
+
+Realtime Outage Tracker: Real-time outage monitoring pipeline scraping Reddit for service-down posts, streaming via Kafka, processing with Spark Streaming, storing results in PostgreSQL, and visualizing trends in a Streamlit dashboard with Prometheus metrics.
+
+Skills
+
+Python • SQL • Spark • Kafka • Airflow • dbt • Docker • GitHub Actions • Terraform
