@@ -1,13 +1,15 @@
 # Hello, my name is Kacper
 
-I'm a 20-year-old Data Engineer with 3 years of hands-on experience building real-time data pipelines and analytics dashboards from real-world problems.
+I'm a 20-year-old Data Engineer & Data Analyst with 3 years of hands-on experience designing data pipelines, building dashboards, and turning raw data into actionable insights from real-world problems.
 
-My main languages are **Python** and **SQL**, and I work with tools like **Apache Kafka, Spark, Airflow, Databricks,** and **Azure**.  
-I've also worked with **AWS** and **GCP** on smaller pipelines and cloud-based integrations.
+I specialize in **Python** and **SQL**, and have experience across the full data workflow — from ingesting and transforming data in **Apache Kafka, Spark, Airflow**, to analyzing and visualizing it using **Power BI, Streamlit**, and **Tableau**.
 
-Currently working on smart meter analytics and Delta Lake KPIs in Databricks Community Edition.
+I've worked on cloud-based pipelines and data solutions with **Databricks, Azure**, and smaller integrations on **AWS** and **GCP**.
 
-Tools I use: Python, SQL, Kafka, Spark, Airflow, Databricks, Azure, Docker, dbt
+Currently, I'm building smart meter analytics with real-time pipelines and Delta Lake KPIs in Databricks Community Edition.
+
+**My tools include:**  
+Python, SQL, Kafka, Spark, Airflow, Databricks, Azure, Docker, dbt, pandas, numpy, matplotlib, seaborn, Power BI, Tableau, Streamlit.
 
 Feel free to explore my projects — everything is public.  
 If you have any questions or want to connect:
