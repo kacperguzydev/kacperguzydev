@@ -1,17 +1,12 @@
 # Hello, I'm Kacper
 
-I'm a 20-year-old Data Engineer & Data Analyst with 3 years of hands-on experience designing data pipelines, analyzing datasets, and building dashboards that turn raw data into actionable insights.
+I'm a 20-year-old Data Analyst with 3 years of hands-on experience turning raw data into actionable insights through analysis, reporting, and dashboards.  
 
-I specialize in **Python** and **SQL**, and have worked across the entire data workflow — from ingesting and processing data with **Apache Kafka, Spark, and Airflow**, to visualizing KPIs and trends using **Power BI, Streamlit**, and **Tableau**.
+I specialize in **Python** and **SQL** for data analysis and work with tools like **pandas, numpy, Power BI, Tableau, Streamlit, matplotlib**, and **seaborn** to create clear, data-driven stories that help businesses make better decisions.  
 
-I’ve built cloud-based data solutions with **Databricks** and **Azure**, and also completed smaller projects using **AWS** and **GCP**.
+Along the way, I’ve also built data pipelines and automated workflows using **Apache Kafka, Spark, Airflow**, and cloud platforms like **Databricks** and **Azure** — giving me a strong foundation in scalable data processing when needed.  
 
-Right now, I'm working on smart meter analytics with real-time data pipelines and Delta Lake KPIs in Databricks Community Edition.
+Right now, I'm focused on smart meter analytics, KPI tracking, and real-time dashboards using Databricks Community Edition.  
 
 **My tools include:**  
-Python, SQL, Kafka, Spark, Airflow, Databricks, Azure, Docker, dbt, pandas, numpy, matplotlib, seaborn, Power BI, Tableau, Streamlit.
-
-Feel free to explore my projects — everything is public.  
-If you have any questions or want to connect:
-
-✉️ **kacper.guzy.dev@outlook.com**
+Python, SQL, pandas, numpy, matplotlib, seaborn, Power BI, Tableau, Streamlit, Kafka, Spark, Airflow, Databricks, Azure, Docker.
